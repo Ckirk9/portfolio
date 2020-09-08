@@ -10,7 +10,7 @@ function About() {
                 Years of experience in wellness, customer service, and management have instilled in me a passion for making lives better. 
                 I love human connection, I'm a feeler, and visual-thinker. I'm driven by empathy and believe if you approach every 
                 project with the user experience in mind, the rest will fall into place. 
-                
+                <br/>
                 <br/> In the fast pace society we live in, it was important to me to keep up with growing technology and I 
                 took the plunge dedicating 600+ hours pursuing General Assembly's Software Engineering Immersive program. 
                 I've learned the foundations of web development, I've built fullstack web apps, but more importantly I've 
@@ -19,7 +19,7 @@ function About() {
             <h5>Personal Interests</h5>
             <p>
                 When I'm not working on a project or sharpening my programming skills, I enjoy teaching community yoga classes, laughing at 
-                bad puns, and adventuring outdoors. 
+                good puns, and adventuring outdoors. 
             </p>
             <h5>Goals</h5>
             <p>
