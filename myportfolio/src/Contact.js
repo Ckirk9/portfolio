@@ -8,17 +8,17 @@ const Contact = () => {
             <a 
               href="https://github.com/Ckirk9" target="_blank"
               className="github-link">
-            <i class="fa fa-github" aria-hidden="true"></i>
+            <i className="fab fa-github" aria-hidden="true"></i>
             </a>
             <a 
-              href="https://www.linkedin.com/in/christine-kirk-a3085a133/" target="_blank"
+              href="https://www.linkedin.com/in/christine-kirk89/" target="_blank"
               className="linkedIn-link">
-            <i class="fa fa-linkedin" aria-hidden="true"></i>
+            <i className="fab fa-linkedin" aria-hidden="true"></i>
             </a>
             <a 
               href="mailto:christine.kirk@yahoo.com" target="_blank"
               className="email">
-            <i class="email-link fa fa-envelope-o" aria-hidden="true"></i>
+            <i className="email-link far fa-envelope" aria-hidden="true"></i>
             </a>
         </div>
     )
