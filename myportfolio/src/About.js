@@ -7,7 +7,7 @@ function About() {
             <h4>Software Engineer | Devoted Yogi | Nature Lover</h4>
             <h5>Journey</h5>
             <p>
-                Years of experience in wellness, customer service, and management have instilled a passion in me for making lives better. 
+                Years of experience in wellness, customer service, and project management have instilled a passion in me for making lives better. 
                 I love human connection, I'm a feeler, and visual-thinker. I'm driven by empathy and believe if you approach every 
                 project with the user experience in mind, the rest will fall into place. My success in project management led me to the site 
                 director role managing 700 employees, I want to utilize my project management roots where I can be more involved in a 
