@@ -3,8 +3,8 @@ import React from 'react'
 function About() {
     return (
         <div>
-            <h3>Christine Kirk, ABA </h3>
-            <h4>Software Engineer | Devoted Yogi | Nature Lover</h4>
+            <h1>Christine Kirk, ABA </h1>
+            <h4>Project Manager | Software Engineer | Devoted Yogi | Nature Lover</h4>
             <h5>Journey</h5>
             <p>
                 Years of experience in wellness, customer service, and project management have instilled a passion in me for making lives better. 
